@@ -1,1 +1,24 @@
-
+1) Solicitar o nome e o salário de uma pessoa. No final, apresente o nome e seu novo salário como aumento de 28,5%.
+2) Ler duas variáveis numérica, e apresentar a soma das mesmas, acumulando ou não em outra variável.
+3) AREA = (BASE x ALTURA) / 2. Área de um Triângulo
+4) CAC = 3.1416 * R2. Lembre-se que R2 é o mesmo que (R * R). Área de um Círculo
+5) CPC = 3.1416 * D, sendo que D = R + R. Perímetro de Círculo
+6) CVC = (3.1416 * R2) * H Volume de Círculo
+7) VCN = ((3.1416 * R2) / 3) * H Volume de um Cone
+8) VPD = (L * L) * (H / 3) Volume de Pirâmide
+9) VPM = L1 * L2 * L3 Volume de Prisma
+10) VEF = (4/3) * 3.1416) * R3 Volume de Esfera.
+11) Ler 3 notas e apresentar a média das mesmas.
+12) Conhecido 3 números inteiros, apresente o resultado da multiplicação dos mesmos
+13) Informado 3 números, apresente a soma do primeiro com o terceiro, multiplicando pelo segundo.
+14) Sendo dado dois números pelo usuário, apresente a décima parte da subtração de um pelo outro, utilizando uma
+terceira variável.
+15) Baseado no exercício anterior, faça o mesmo processo sem fazer uso de uma terceira variável.
+16) Construa um algoritmo que leia e apresente a soma de 5 números fornecidos pelo usuário.
+17) Solicite o nome e idade de 4 pessoas e apresente a média no final
+18) Solicite ao usuário um número inteiro e apresente o RESTO da divisão por 2
+19) Solicite o nome, idade, profissão e o salário de uma pessoa. Posteriormente, apresente todos os dados e o valor
+que será descontado de seu salário para despesas de plano de saúde, considerando que seja descontado 1,3% do
+salário.
+20) Construa um algoritmo que solicite 5 números e apresente a média ponderada dos mesmos, considerando
+respectivamente os pesos 2, 4, 2, 5 e 3.
